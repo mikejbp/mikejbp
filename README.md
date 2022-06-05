@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning good practices with **HTML5, CSS & JS.** Also, I'm learning **ReactJS** and I'm improving my **English skills.**
 
-- 👯 I’m collaborating on [NeoCoin Exchange](https://github.com/No-Country/C4-23-t/tree/development)
+- 👯 I’m collaborating on [NeoCoin Exchange](https://github.com/No-Country/C4-23-t/tree/main)
 
 - 🤝 I’m looking for a job or training as **FrontEnd Developer**
 
