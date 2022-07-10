@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Miguel Briceño and welcome to my profile!</h1>
 <h3 align="center">A passionate frontend developer trainee from Maracaibo, Venezuela <img alt='bandera-venezuela' src='https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg' width="15" height="10" style="max-width: 100%;" /></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikejbp&label=Profile%20views&color=0e75b6&style=flat" alt="mikejbp" /> </p>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikejbp" alt="mikejbp" /></a> </p>
 <br>
 
-- 🔭 I’m currently working on basic projects like: **counter app, calculator, cronometer, landing pages, etc**. (I'll upload it as soon as I can!).
+- 🔭 I’m currently working on projects, collaborating with teamwork.
 
 - 🌱 I’m currently learning good practices with **HTML5, CSS & JS.** Also, I'm learning **ReactJS** and I'm improving my **English skills.**
 
 - 👯 I’m collaborating on [NeoCoin Exchange](https://github.com/No-Country/C4-23-t/tree/main)
 
-- 🤝 I’m looking for a job or training as **FrontEnd Developer**
+- 🤝 I’m looking for a job as **FrontEnd Developer**
 
 - 📫 How to contact me: **migueljbriceno@gmail.com**
 <br>
