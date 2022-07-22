@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on projects, collaborating with teamwork.
 
-- 🌱 I’m currently learning good practices with **HTML5, CSS & JS.** Also, I'm learning **ReactJS** and I'm improving my **English skills.**
+- 🌱 I’m currently learning good practices with **CSS & ReactJS.** Also, I'm learning **NextJS** & **TypeScript** and I'm improving my **English skills**.
 
-- 👯 I’m collaborating on [NeoCoin Exchange](https://github.com/No-Country/C4-23-t/tree/main)
+- 👯 I’m collaborating on [NeoCoin Exchange](https://neocoin.netlify.app/)
 
 - 🤝 I’m looking for a job as **FrontEnd Developer**
 
@@ -23,7 +23,6 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <br><br>
 
