@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning good practices with **ReactJS**. Also, I'm learning **NextJS** & **TypeScript** and I'm improving my **English skills**.
 
-- 👯 I’m collaborating and working in some projects with others developers & designers!
+- 👯 I’m collaborating and working in some projects with others developers & designers! 😎
 
 - 🤝 I’m looking for a job as **FrontEnd Developer**
 
