@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikejbp" alt="mikejbp" /></a> </p>
 <br>
 
-- 🔭 I’m currently working on projects, collaborating with teamwork.
+- 🔭 I’m currently working on projects, collaborating with teamwork!🤝🏻
 
 - 🌱 I’m currently learning good practices with **ReactJS**. Also, I'm learning **NextJS** & **TypeScript** and I'm improving my **English skills**.
 
