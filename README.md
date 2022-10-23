@@ -38,9 +38,11 @@
 ## Another Technologies/Tools
 [![My Skills](https://skillicons.dev/icons?i=git,bash,docker&theme=dark)](https://skillicons.dev)
 
-## Projects 
+## Projects Management 
 <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/j/41/jira.svg" alt="jira" width="40" height="40"/> </a> &nbsp;
-<a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="slack" width="40" height="40"/> </a>
+<a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="slack" width="40" height="40"/> </a> &nbsp;
+<a href="https://trello.com/es" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="40" height="40"/> </a> &nbsp;
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.tethysplatform.org/images/github-icon.png" alt="github-projects" width="50" /> </a> &nbsp;
 
 <hr />
 
