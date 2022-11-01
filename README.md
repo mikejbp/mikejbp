@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer trainee from Maracaibo, Venezuela <img alt='bandera-venezuela' src='https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg' width="15" height="10" style="max-width: 100%;" /></h3>
 
 <br>
+
 - 🔭 I’m currently working on projects, collaborating with teamwork!🤝🏻
 
 - 🌱 I’m currently learning good practices with **ReactJS**. Also, I'm learning **NextJS** & **TypeScript** and I'm improving my **English skills**.
@@ -42,7 +43,7 @@
 <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/j/41/jira.svg" alt="jira" width="40" height="40"/> </a> &nbsp;
 <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="slack" width="40" height="40"/> </a> &nbsp;
 <a href="https://trello.com/es" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="40" height="40"/> </a> &nbsp;
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.tethysplatform.org/images/github-icon.png" alt="github-projects" width="50" /> </a> &nbsp;
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github-projects" width="40" /> </a> &nbsp;
 
 <hr />
 
